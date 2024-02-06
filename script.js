@@ -1,6 +1,6 @@
-const APILINK = 'https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=3f0e99c6ea676a0d814e7a11d49917c7&page=1';
-const IMG_PATH = "https://image.tmdb.org/t/p/w1280";
-const SEARCHAPI = "https://api.themoviedb.org/3/search/movie?&api_key=3f0e99c6ea676a0d814e7a11d49917c7&query=";
+const APILINK = 'your api link (freecodecamp fullstack alıştırma)';
+const IMG_PATH = "your img path link (freecodecamp fullstack alıştırma)";
+const SEARCHAPI = "your search api link (freecodecamp fullstack alıştırma)";
 
 const main = document.getElementById("section");
 const form = document.getElementById("form");
