@@ -2,7 +2,7 @@ const url = new URL(location.href);
 const movieId = url.searchParams.get("id")
 const movieTitle = url.searchParams.get("title")
 
-const APILINK = 'https://023add62-53c8-4d96-a8c9-49b9e4d4d721-00-2yfbm17nrnic2.sisko.replit.dev/api/v1/reviews/';
+const APILINK = 'your api link (freecodecamp fullstack alıştırma)';
 
 const main = document.getElementById("section");
 const title = document.getElementById("title");
